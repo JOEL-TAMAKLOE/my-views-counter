@@ -3,7 +3,7 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "android-vpn-client-ics-openvpn",
-   "android-animations" 
+    "gayanvoice/android-vpn-client-ics-openvpn",
+   "gayanvoice/android-animations" 
   ]
 }
