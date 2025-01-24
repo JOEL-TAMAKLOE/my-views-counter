@@ -3,7 +3,7 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "JOEL-TAMAKLOE/android-vpn-client-ics-openvpn",
-   "JOEL-TAMAKLOE/android-animations" 
+    "android-vpn-client-ics-openvpn",
+   "android-animations" 
   ]
 }
